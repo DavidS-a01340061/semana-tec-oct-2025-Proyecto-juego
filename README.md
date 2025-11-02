@@ -12,7 +12,7 @@ y se realizaron las siguientes mejoras:
 3. **Aumento de la velocidad de los fantasmas**: se incrementó para mayor dificultad.
 
 ## Validación de código
-Se utilizó la herramienta `flake8` para asegurar la conformidad con PEP8.
+Se utilizó la herramienta `flake8` para revisar el codigo conforme con PEP8, a pesar de no poder resolverlo.
 
 ## Autor
 David S. Vargas Reynoso
